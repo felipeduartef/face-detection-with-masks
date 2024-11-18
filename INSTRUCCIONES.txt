@@ -1,0 +1,13 @@
+INSTRUCCIONES
+
+1. Abrir símbolo del sistema
+2. Dirijirse a la carpeta tarea_3 desde la consola
+3. Escribir el comando cd p1\Scripts
+4. Escribir activate
+5. Se dirije al la carpeta tarea_3 con el comando cd ../..
+6. Escribir main.py
+
+INTERFAZ DE USUARIO
+
+Para iniciar la cámara se hace clic sobre el botón "iniciar" de la interfaz gráfica
+
